@@ -1,0 +1,2 @@
+100-1030a00	TKD 31-0001a	buddhist/K-koreana/31-tif/0000-0099/31_0001_A.TIF
+000-0001a21	TKD 31-0001b	buddhist/K-koreana/31-tif/0000-0099/31_0001_B.TIF
